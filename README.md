@@ -2,7 +2,7 @@
 
 A fully functional real-time multiplayer Ultimate Tic-Tac-Toe game with a sleek sci-fi UI, built with React, Socket.IO, and Node.js.
 
-## Features
+## Features  
 
 ### 🎮 Game Modes
 - **Local Play**: Single-player against AI (Easy, Medium, Hard) or AI vs AI
